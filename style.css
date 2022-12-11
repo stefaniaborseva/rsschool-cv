@@ -1,0 +1,27 @@
+*{
+    font-family: monospace;
+}
+body {
+    background-color: pink;
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+th, td {
+    border: 3px solid yellow;
+    background-color: aqua;
+}
+table, tr, th, td {
+    margin: 0;
+    padding: 0;
+    
+}
+a {
+    font-size: 5em;
+}
+a:hover {
+    color:crimson;
+}
